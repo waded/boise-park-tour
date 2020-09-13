@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "csv-parse": "^4.11.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
