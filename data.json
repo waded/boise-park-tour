@@ -2,7 +2,7 @@
   {
     "id": "100",
     "lat": 43.613914118,
-    "long": -116.179441707,
+    "long": -116.179441708,
     "name": "Aldape Park",
     "type": "Mini",
     "park_status": "Open",
@@ -18,13 +18,13 @@
     "type": "Community",
     "park_status": "Planned",
     "dev_status": "Undeveloped",
-    "address": "",
-    "linkId": "Alta-Harris-Park-Site"
+    "address": "3910 S Eckert Rd",
+    "linkId": "Alta-Harris"
   },
   {
     "id": "102",
     "lat": 43.610881201,
-    "long": -116.219965939,
+    "long": -116.21996594,
     "name": "Ann Morrison Memorial Park",
     "type": "Large Urban",
     "park_status": "Open",
@@ -34,7 +34,7 @@
   },
   {
     "id": "103",
-    "lat": 43.5828039030001,
+    "lat": 43.5828039040001,
     "long": -116.164611233,
     "name": "Baggley Park",
     "type": "Neighborhood",
@@ -46,7 +46,7 @@
   {
     "id": "104",
     "lat": 43.544790005,
-    "long": -116.103861798,
+    "long": -116.103861799,
     "name": "Barber Observation Point",
     "type": "Special Use",
     "park_status": "Open",
@@ -57,24 +57,24 @@
   {
     "id": "105",
     "lat": 43.6243648450001,
-    "long": -116.232541388,
+    "long": -116.232541389,
     "name": "Bernardine Quinn Riverside Park",
     "type": "Special Use",
     "park_status": "Open",
-    "dev_status": "Undeveloped",
+    "dev_status": "Developed",
     "address": "3150 W PLEASANTON AVE",
     "linkId": ""
   },
   {
     "id": "106",
-    "lat": 43.60210163,
-    "long": -116.214826831,
+    "lat": 43.6021016290001,
+    "long": -116.214826832,
     "name": "Boise Depot",
     "type": "Special Use",
     "park_status": "Open",
     "dev_status": "Developed",
     "address": "2603 W EASTOVER TERRACE",
-    "linkId": "Boise-Depot"
+    "linkId": ""
   },
   {
     "id": "107",
@@ -89,7 +89,7 @@
   },
   {
     "id": "108",
-    "lat": 43.59489512,
+    "lat": 43.5948951190001,
     "long": -116.221622349,
     "name": "Bowden Park",
     "type": "Neighborhood",
@@ -188,7 +188,7 @@
   },
   {
     "id": "117",
-    "lat": 43.5635557580001,
+    "lat": 43.5635557570001,
     "long": -116.16358801,
     "name": "Cypress Park",
     "type": "Neighborhood",
@@ -232,7 +232,7 @@
   },
   {
     "id": "121",
-    "lat": 43.6261342540001,
+    "lat": 43.626134253,
     "long": -116.282788631,
     "name": "Fairmont Park",
     "type": "Special Use",
@@ -255,7 +255,7 @@
   {
     "id": "123",
     "lat": 43.6164563310001,
-    "long": -116.27989811,
+    "long": -116.279898111,
     "name": "Florence Park",
     "type": "Neighborhood",
     "park_status": "Open",
@@ -287,18 +287,18 @@
   },
   {
     "id": "126",
-    "lat": 43.624624914,
+    "lat": 43.624624913,
     "long": -116.200808896,
     "name": "Gordon S. Bowen Park",
     "type": "Mini",
     "park_status": "Open",
     "dev_status": "Developed",
     "address": "1013 W O'FARRELL ST",
-    "linkId": "Gordon-S.-Bowen-Park"
+    "linkId": "Gordon-S-Bowen-Park"
   },
   {
     "id": "127",
-    "lat": 43.5706984350001,
+    "lat": 43.5706984340001,
     "long": -116.16268368,
     "name": "Helen B. Lowder Park",
     "type": "Neighborhood",
@@ -309,7 +309,7 @@
   },
   {
     "id": "128",
-    "lat": 43.646708957,
+    "lat": 43.646708958,
     "long": -116.321592297,
     "name": "Hewett Park",
     "type": "Neighborhood",
@@ -320,7 +320,7 @@
   },
   {
     "id": "129",
-    "lat": 43.6583914010001,
+    "lat": 43.6583914,
     "long": -116.231326586,
     "name": "Hillside Park",
     "type": "Community",
@@ -331,7 +331,7 @@
   },
   {
     "id": "130",
-    "lat": 43.6587645050001,
+    "lat": 43.6587645060001,
     "long": -116.344515105,
     "name": "Hobble Creek Park",
     "type": "Community",
@@ -353,7 +353,7 @@
   },
   {
     "id": "132",
-    "lat": 43.6098525850001,
+    "lat": 43.6098525840001,
     "long": -116.208674387,
     "name": "Idaho Anne Frank Human Rights Memorial",
     "type": "Special Use",
@@ -365,7 +365,7 @@
   {
     "id": "133",
     "lat": 43.5815821350001,
-    "long": -116.189108756,
+    "long": -116.189108757,
     "name": "Ivywild Park",
     "type": "Community",
     "park_status": "Open",
@@ -375,8 +375,8 @@
   },
   {
     "id": "134",
-    "lat": 43.6092717170001,
-    "long": -116.205127078,
+    "lat": 43.6092717160001,
+    "long": -116.205127077,
     "name": "Julia Davis Park",
     "type": "Regional",
     "park_status": "Open",
@@ -441,8 +441,8 @@
   },
   {
     "id": "140",
-    "lat": 43.626442377,
-    "long": -116.208673713,
+    "lat": 43.6264423760001,
+    "long": -116.208673712,
     "name": "McAuley Park",
     "type": "Mini",
     "park_status": "Open",
@@ -463,8 +463,8 @@
   },
   {
     "id": "142",
-    "lat": 43.640624405,
-    "long": -116.282786727,
+    "lat": 43.640624406,
+    "long": -116.282786726,
     "name": "Milwaukee Park",
     "type": "Special Use",
     "park_status": "Open",
@@ -474,7 +474,7 @@
   },
   {
     "id": "143",
-    "lat": 43.605392368,
+    "lat": 43.6053923690001,
     "long": -116.232641401,
     "name": "Morris Hill Park",
     "type": "Neighborhood",
@@ -485,7 +485,7 @@
   },
   {
     "id": "144",
-    "lat": 43.635378244,
+    "lat": 43.635378245,
     "long": -116.269940758,
     "name": "Mountain View Park",
     "type": "Neighborhood",
@@ -574,7 +574,7 @@
   {
     "id": "152",
     "lat": 43.5812543270001,
-    "long": -116.250200667,
+    "long": -116.250200666,
     "name": "Phillippi Park",
     "type": "Neighborhood",
     "park_status": "Open",
@@ -596,7 +596,7 @@
   {
     "id": "154",
     "lat": 43.6038045980001,
-    "long": -116.166705159,
+    "long": -116.16670516,
     "name": "Eagle Rock Park",
     "type": "Neighborhood",
     "park_status": "Open",
@@ -618,18 +618,18 @@
   {
     "id": "156",
     "lat": 43.6182563360001,
-    "long": -116.213720507,
+    "long": -116.213720506,
     "name": "Rhodes Park",
     "type": "Special Use",
     "park_status": "Open",
     "dev_status": "Developed",
     "address": "1555 W FRONT ST",
-    "linkId": "Rhodes-Park"
+    "linkId": "Rhodes-Skate-Park"
   },
   {
     "id": "158",
     "lat": 43.6113537470001,
-    "long": -116.193604882,
+    "long": -116.193604883,
     "name": "Robert Noble Park",
     "type": "Mini",
     "park_status": "Open",
@@ -706,7 +706,7 @@
   {
     "id": "168",
     "lat": 43.6011881160001,
-    "long": -116.175095972,
+    "long": -116.175095973,
     "name": "Warm Springs Park",
     "type": "Special Use",
     "park_status": "Open",
@@ -716,8 +716,8 @@
   },
   {
     "id": "169",
-    "lat": 43.6393879140001,
-    "long": -116.270568131,
+    "lat": 43.6393879130001,
+    "long": -116.27056813,
     "name": "West Moreland Park",
     "type": "Mini",
     "park_status": "Open",
@@ -782,7 +782,7 @@
   },
   {
     "id": "200",
-    "lat": 43.492043107,
+    "lat": 43.492043106,
     "long": -116.040575512,
     "name": "Bonneville Monument Park",
     "type": "Open Space",
@@ -797,15 +797,15 @@
     "long": -116.128300732,
     "name": "Bowler Site",
     "type": "Community",
-    "park_status": "Planned",
-    "dev_status": "Undeveloped",
+    "park_status": "Open",
+    "dev_status": "Developed",
     "address": "4401S SURPRISE WAY",
-    "linkId": "Bowler-Park-Site"
+    "linkId": "bowler-park"
   },
   {
     "id": "203",
     "lat": 43.631873023,
-    "long": -116.316125555,
+    "long": -116.316125554,
     "name": "Comba Park",
     "type": "Neighborhood",
     "park_status": "Open",
@@ -837,7 +837,7 @@
   },
   {
     "id": "212",
-    "lat": 43.6815653,
+    "lat": 43.6815652990001,
     "long": -116.292367059,
     "name": "Magnolia Park",
     "type": "Neighborhood",
@@ -860,7 +860,7 @@
   {
     "id": "215",
     "lat": 43.6640644510001,
-    "long": -116.217018806,
+    "long": -116.217018807,
     "name": "Stewart Gulch Park",
     "type": "Neighborhood",
     "park_status": "Open",
@@ -882,7 +882,7 @@
   {
     "id": "217",
     "lat": 43.578418969,
-    "long": -116.296735658,
+    "long": -116.296735657,
     "name": "Molenaar Park",
     "type": "Community",
     "park_status": "Open",
@@ -899,18 +899,18 @@
     "park_status": "Planned",
     "dev_status": "Undeveloped",
     "address": "3801 S COLE RD",
-    "linkId": "Murgoitio-Park-Site"
+    "linkId": ""
   },
   {
     "id": "220",
-    "lat": 43.550690409,
+    "lat": 43.5506904100001,
     "long": -116.306407133,
     "name": "Pearl Jensen Park Site",
     "type": "Community",
     "park_status": "Planned",
     "dev_status": "Undeveloped",
     "address": "9920 W LAKE HAZEL RD",
-    "linkId": "Pearl-Jensen-Park-Site"
+    "linkId": ""
   },
   {
     "id": "221",
@@ -965,18 +965,29 @@
     "park_status": "Open",
     "dev_status": "Developed",
     "address": "310 S HILTON ST",
-    "linkId": "Franklin-Site"
+    "linkId": "franklin-park"
   },
   {
     "id": "227",
-    "lat": 43.6402606180001,
-    "long": -116.276708091,
+    "lat": 43.6402606190001,
+    "long": -116.27670809,
     "name": "Spaulding Ranch",
     "type": "Special Use",
     "park_status": "Planned",
     "dev_status": "Undeveloped",
     "address": "3805 N COLE RD",
-    "linkId": "Spaulding-Ranch-Site"
+    "linkId": ""
+  },
+  {
+    "id": "228",
+    "lat": 43.5461948060001,
+    "long": -116.097411163,
+    "name": "Sue Howell Park",
+    "type": "Neighborhood",
+    "park_status": "Planned",
+    "dev_status": "Undeveloped",
+    "address": "6899 E WARM SPRINGS AVE",
+    "linkId": ""
   },
   {
     "id": "251",
@@ -1003,7 +1014,7 @@
   {
     "id": "254",
     "lat": 43.607936303,
-    "long": -116.231039325,
+    "long": -116.231039326,
     "name": "Morris Hill Cemetery",
     "type": "Special Use",
     "park_status": "Open",
@@ -1013,7 +1024,7 @@
   },
   {
     "id": "256",
-    "lat": 43.614311322,
+    "lat": 43.614311323,
     "long": -116.212514981,
     "name": "Pioneer Tot Lot",
     "type": "Special Use",
@@ -1036,7 +1047,7 @@
   {
     "id": "279",
     "lat": 43.6349681990001,
-    "long": -116.223872216,
+    "long": -116.223872215,
     "name": "Lowell Pool",
     "type": "Special Use",
     "park_status": "Open",
@@ -1053,7 +1064,7 @@
     "park_status": "Open",
     "dev_status": "Developed",
     "address": "1811 E WARM SPRINGS AVE",
-    "linkId": ""
+    "linkId": "Natatorium-Pool-and-Hydrotube"
   },
   {
     "id": "281",
@@ -1080,7 +1091,7 @@
   {
     "id": "293",
     "lat": 43.6236056340001,
-    "long": -116.179018231,
+    "long": -116.179018232,
     "name": "Fort Boise Military Reserve Cemetery",
     "type": "Special Use",
     "park_status": "Open",
@@ -1089,30 +1100,52 @@
     "linkId": "Fort-Boise-Military-Reserve-Cemetery"
   },
   {
+    "id": "294",
+    "lat": 43.614888503,
+    "long": -116.204233602,
+    "name": "Grove Plaza",
+    "type": "Special Use",
+    "park_status": "Open",
+    "dev_status": "Developed",
+    "address": "827 W MAIN ST",
+    "linkId": ""
+  },
+  {
     "id": "318",
     "lat": 43.6382670620001,
-    "long": -116.205541351,
+    "long": -116.20554135,
     "name": "Dewey Park",
     "type": "Mini",
     "park_status": "Open",
     "dev_status": "ROW",
     "address": "N 15TH ST",
-    "linkId": "Dewey-Park"
+    "linkId": ""
+  },
+  {
+    "id": "366",
+    "lat": 43.616596058,
+    "long": -116.202576283,
+    "name": "8th Street Corridor",
+    "type": "Special Use",
+    "park_status": "Open",
+    "dev_status": "ROW",
+    "address": "",
+    "linkId": ""
   },
   {
     "id": "409",
     "lat": 43.615048965,
-    "long": -116.209971955,
+    "long": -116.209971954,
     "name": "Pioneer Myrtle Parcel",
     "type": "Special Use",
     "park_status": "Open",
     "dev_status": "Developed",
-    "address": "                                       ",
+    "address": "",
     "linkId": ""
   },
   {
     "id": "700",
-    "lat": 43.6768004800001,
+    "lat": 43.676800481,
     "long": -116.230970325,
     "name": "Polecat Gulch Reserve",
     "type": "Open Space",
@@ -1135,7 +1168,7 @@
   {
     "id": "702",
     "lat": 43.642282503,
-    "long": -116.1752526,
+    "long": -116.175252599,
     "name": "Hulls Gulch Reserve",
     "type": "Open Space",
     "park_status": "Open",
@@ -1156,7 +1189,7 @@
   },
   {
     "id": "704",
-    "lat": 43.6386847800001,
+    "lat": 43.6386847790001,
     "long": -116.101563493,
     "name": "Noble Reserve",
     "type": "Open Space",
@@ -1234,12 +1267,12 @@
   {
     "id": "713",
     "lat": 43.653348663,
-    "long": -116.218231249,
+    "long": -116.218231248,
     "name": "Hillside to Hollow Reserve",
     "type": "Open Space",
     "park_status": "Open",
     "dev_status": "Reserve",
-    "address": "2700 W HILL RD                                              ",
+    "address": "2700 W HILL RD",
     "linkId": "Hillside-to-Hollow-Reserve"
   },
   {
@@ -1248,10 +1281,10 @@
     "long": -116.151866518,
     "name": "Golda Harris Reserve",
     "type": "Open Space",
-    "park_status": "Planned",
-    "dev_status": "Undeveloped",
+    "park_status": "Open",
+    "dev_status": "Reserve",
     "address": "2851 E WARM SPRINGS AVE",
-    "linkId": ""
+    "linkId": "golda-harris-nature-preserve"
   },
   {
     "id": "715",
@@ -1262,23 +1295,67 @@
     "park_status": "Open",
     "dev_status": "Reserve",
     "address": "N Bogus Basin Rd",
-    "linkId": ""
+    "linkId": "hawkins-range-reserve"
   },
   {
     "id": "716",
-    "lat": 43.565913021,
+    "lat": 43.56591302,
     "long": -116.105920071,
     "name": "Peace Valley Overlook Reserve",
     "type": "Open Space",
     "park_status": "Open",
     "dev_status": "Reserve",
     "address": "6312 E WARM SPRINGS AVE",
+    "linkId": "peace-valley-overlook-reserve"
+  },
+  {
+    "id": "717",
+    "lat": 43.6308228080001,
+    "long": -116.195542141,
+    "name": "North End Native Plant Preserve",
+    "type": "Open Space",
+    "park_status": "Open",
+    "dev_status": "Reserve",
+    "address": "N 6th St",
+    "linkId": "north-end-native-plant-preserve"
+  },
+  {
+    "id": "718",
+    "lat": 43.6839401890001,
+    "long": -116.239581922,
+    "name": "Pierce Gulch Farms",
+    "type": "Open Space",
+    "park_status": "Open_Restricted",
+    "dev_status": "Undeveloped",
+    "address": "9298 N PIERCE PARK LN",
     "linkId": ""
+  },
+  {
+    "id": "719",
+    "lat": 43.6870524340001,
+    "long": -116.299967047,
+    "name": "Hill Road Parkway",
+    "type": "Open Space",
+    "park_status": "Open_Restricted",
+    "dev_status": "Undeveloped",
+    "address": "N DUNCAN LN",
+    "linkId": ""
+  },
+  {
+    "id": "720",
+    "lat": 43.698134596,
+    "long": -116.245842438,
+    "name": "tbd",
+    "type": "Open Space",
+    "park_status": "Open",
+    "dev_status": "Reserve",
+    "address": "TBD N SEAMAN GULCH LN",
+    "linkId": "Antelope-Bitterbrush-Reserve"
   },
   {
     "id": "901",
     "lat": 43.6287479100001,
-    "long": -116.30073511,
+    "long": -116.300735111,
     "name": "Proposed NP Cole/Ustick",
     "type": "Neighborhood",
     "park_status": "Proposed",
@@ -1289,7 +1366,7 @@
   {
     "id": "902",
     "lat": 43.5736856410001,
-    "long": -116.203905297,
+    "long": -116.203905298,
     "name": "Proposed NP Vista",
     "type": "Neighborhood",
     "park_status": "Proposed",
@@ -1299,8 +1376,8 @@
   },
   {
     "id": "903",
-    "lat": 43.5452173990001,
-    "long": -116.318989712,
+    "lat": 43.5452174000001,
+    "long": -116.318989711,
     "name": "Proposed NP Lake Hazel",
     "type": "Neighborhood",
     "park_status": "Proposed",
@@ -1332,7 +1409,7 @@
   },
   {
     "id": "906",
-    "lat": 43.5379666320001,
+    "lat": 43.5379666330001,
     "long": -116.105723133,
     "name": "Proposed NP Hwy 21 (site 14)",
     "type": "Neighborhood",
@@ -1344,7 +1421,7 @@
   {
     "id": "908",
     "lat": 43.6803525500001,
-    "long": -116.268078377,
+    "long": -116.268078376,
     "name": "Pierce Park Site",
     "type": "Neighborhood",
     "park_status": "Planned",
@@ -1372,7 +1449,7 @@
     "park_status": "Open_Restricted",
     "dev_status": "Developed",
     "address": "W SHORELINE DR",
-    "linkId": ""
+    "linkId": "Fire-Training-Center"
   },
   {
     "id": "929",
@@ -1387,8 +1464,8 @@
   },
   {
     "id": "932",
-    "lat": 43.6020743890001,
-    "long": -116.175081083,
+    "lat": 43.60207439,
+    "long": -116.175081084,
     "name": "Adams Elementary School Playground",
     "type": "Special Use",
     "park_status": "Open",
@@ -1398,7 +1475,7 @@
   },
   {
     "id": "933",
-    "lat": 43.6144960510001,
+    "lat": 43.614496052,
     "long": -116.212602798,
     "name": "Housing and Community Development Lot",
     "type": "Special Use",
@@ -1419,14 +1496,14 @@
     "linkId": ""
   },
   {
-    "id": "Sue Howell Park",
-    "lat": 43.5461948060001,
-    "long": -116.097411163,
-    "name": "Sue Howell Park",
-    "type": "Neighborhood",
-    "park_status": "Planned",
-    "dev_status": "Undeveloped",
-    "address": "6899 E WARM SPRINGS AVE",
+    "id": "935",
+    "lat": 43.553126191,
+    "long": -116.098862003,
+    "name": "East Valley Parking Lot",
+    "type": "Special Use",
+    "park_status": "Open",
+    "dev_status": "Developed",
+    "address": "6879 E WARM SPRINGS AVE",
     "linkId": ""
   }
 ]

@@ -12,13 +12,13 @@ const process = async url => {
     var mapped = parsed.map(v => {
         return {
             // e.g. Sue Howell Park has no ParkID
-            'id': v["ParkID"].length > 0 ? v["ParkID"] : v["ParkName"],
+            'id': v["ParkID"].length > 0 ? v["ParkID"] : v["Site_Name"],
             'lat': Number.parseFloat(v["Y"]),
             'long': Number.parseFloat(v["X"]),
-            'name': v["ParkName"],
-            'type': v["ParkType"],
-            'park_status': v["ParkStatus"],
-            'dev_status': v["DevelopmentStatus"],
+            'name': v["Site_Name"],
+            'type': v["Park_Type"],
+            'park_status': v["Park_Status"],
+            'dev_status': v["Development_Status"],
             'address': v["Address"],
             'linkId': v["Park_Link"]
         };
