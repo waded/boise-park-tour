@@ -10,8 +10,7 @@ const downloadCityDataToJson = async () => {
 
   const response = await fetch(url);
   const csv = await response.text();
-  var trimmedCsv = csv.trim();
-  var parsed = parse(trimmedCsv, { columns: true });
+  var parsed = parse(csv, { columns: true, bom: true });
   return parsed
     .map((v) => {
       return {
