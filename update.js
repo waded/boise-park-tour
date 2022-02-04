@@ -10,10 +10,9 @@ const downloadCityDataToJson = async () => {
 
   const response = await fetch(url);
   const csv = await response.text();
-  var parsed = parse(csv, { columns: true, bom: true });
+  const parsed = parse(csv, { columns: true, bom: true });
   return parsed
-    .map((v) => {
-      return {
+    .map(v => ({
         // e.g. Sue Howell Park has no ParkID
         id: v["ParkID"].length > 0 ? v["ParkID"] : v["Site_Name"],
         lat: toCoord(v["Y"]),
@@ -23,9 +22,8 @@ const downloadCityDataToJson = async () => {
         park_status: v["Park_Status"],
         dev_status: v["Development_Status"],
         address: v["Address"],
-        linkId: v["Park_Link"],
-      };
-    })
+        linkId: v["Park_Link"]
+    }))
     .sort((a, b) => {
       return a.id - b.id;
     });
