@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "csv-parse": "^4.11.1",
+    "csv-parse": "^5.0.4",
     "node-fetch": "^2.6.1"
-  }
+  },
+  "type": "module"
 }

@@ -1,5 +1,5 @@
-const fetch = require("node-fetch");
-const csv_parse = require('csv-parse/lib/sync')
+import fetch from "node-fetch";
+import { parse } from 'csv-parse/sync';
 
 // https://city-of-boise.opendata.arcgis.com/datasets/parks-and-recreation-managed-parks-and-reserves-point/data?orderBy=ParkID
 const url = 'https://opendata.arcgis.com/datasets/a0499e28888a44548c52d6e9a2d21b48_0.csv';
@@ -10,7 +10,7 @@ const process = async url => {
     const response = await fetch(url);
     const csv = await response.text();
     var trimmedCsv = csv.trim();
-    var parsed = csv_parse(trimmedCsv, { columns: true });
+    var parsed = parse(trimmedCsv, { columns: true });
     var mapped = parsed.map(v => {
         return {
             // e.g. Sue Howell Park has no ParkID
